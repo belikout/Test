@@ -12,6 +12,10 @@ public class CurriculumSchedule {
  Curriculum proCuri(String Info) {
 	String[] why=Info.split("；");
 	 Curriculum c=new Curriculum(why[0],why[1],why[2],why[3]);
+	 System.out.println("test");
+	 System.out.println("test");
+	 System.out.println("test");
+	 System.out.println("test");
 	return c;
 }
   void allocate(int cmd, Curriculum c) {
