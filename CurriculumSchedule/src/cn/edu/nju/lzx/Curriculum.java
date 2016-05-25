@@ -10,5 +10,9 @@ String location;
 		this.date=date;
 		this.time=time;
 		this.location=location;
+		System.out.println("hhh");
+		System.out.println("hhh");
+		System.out.println("hhh");
+		System.out.println("hhh");
 	}
 }
